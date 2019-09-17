@@ -1,0 +1,5 @@
+Credentials cache: API:8708E55D-45C1-4654-ADD8-63D81923543F
+        Principal: mchamayo@42.FR
+
+  Issued                Expires             Flags    Principal
+Jul 30 17:12:35 2018  Aug  6 17:12:15 2018  FPIA   krbtgt/42.FR@42.FR
